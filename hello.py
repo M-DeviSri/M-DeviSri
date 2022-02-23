@@ -1,0 +1,7 @@
+name = input("Enter the name: ")
+age = input("Age of the student: ")
+redno = input("Id : ")
+print("------------------------------------")
+print("The name of the student: ",name)
+print("Age of the student: ",age)
+print("Id : ",redno)
